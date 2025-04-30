@@ -43,7 +43,7 @@ website:
     icon: megaphone
     dismissable: true
     content: "The registration process is now closed!" 
-# You can apply for the modules that best suit your career or interests [here](https://forms.gle/MtTXSeEYojmNCYnP8)."
+# You can apply for the modules that best suit your career or # interests [here](https://forms.gle/MtTXSeEYojmNCYnP8)."
     type: info
     position: above-navbar
 

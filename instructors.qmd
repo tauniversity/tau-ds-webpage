@@ -135,7 +135,7 @@ Olusola Ogundepo <a href="https://www.linkedin.com/in/comsavvy"
 
 <p style="margin-top:0.5rem;">
 
-Olusola is an experienced data scientist with three years of expertise, skilled in analyzing data with tools like PowerBI and Python and crafting predictive modeling.
+Olusola is a data scientist with over 3 years of experience in data analysis, business intelligence, and predictive modelling using Python. A top graduate in Computer Science & Education, he actively supports data and AI communities through volunteering and mentorship.
 
 </p>
 :::
