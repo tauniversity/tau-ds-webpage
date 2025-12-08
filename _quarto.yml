@@ -30,7 +30,7 @@ website:
   bread-crumbs: true
 
 # Social Metadata
-  favicon: images/logo.png
+  favicon: images/fav-logo.png
   twitter-card: 
     creator: "@gbganalyst"
     image: "/images/logo.png"
