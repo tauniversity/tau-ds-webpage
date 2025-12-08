@@ -2,13 +2,13 @@
 <a href="https://tau.edu.ng/"> <img src="images/logo.png" alt="Thomas Adewumi University logo" style="width:40%;"/> </a>
 :::
 
-Welcome to the AI General Assembly 2025 Training Programme at Thomas Adewumi University, Kwara, Nigeria. This comprehensive curriculum is designed to equip final-year students with essential 21st-century skills in data science, machine learning, business analytics, and digital entrepreneurship. The programme emphasises the practical application of cutting-edge AI tools to enhance productivity, foster creativity, and prepare you for the dynamic job market of tomorrow. Below is an introduction to each of the modules offered in this programme:
+Welcome to the **Diploma in Data Science** programme at Thomas Adewumi University, Kwara, Nigeria.  This comprehensive curriculum is designed to equip final-year students with essential 21st-century skills in data science, machine learning, business analytics, and digital entrepreneurship. The programme emphasises hands-on learning and the practical application of modern tools to enhance productivity, foster creativity, and prepare you for the dynamic demands of the data-driven job market. Below is an introduction to each of the modules offered in this programme:
 
-## Data Analytics using Excel
+## Data Analysis using Excel and Google Sheets
 
 **Unlock the Power of Spreadsheets**
 
-Excel remains a cornerstone tool in data analysis, renowned for its versatility and robust functionality. This course delves deep into Excel's advanced features, enabling you to effectively manage, analyse, and visualise data.
+Excel remains a foundational tool in data analysis, valued for its versatility and robust capabilities. This course explores Excel’s advanced features to help you efficiently manage, analyse and visualise data.
 
 **What You'll Gain:**
 
@@ -22,11 +22,11 @@ Excel remains a cornerstone tool in data analysis, renowned for its versatility 
 
 -   Ability to design dynamic dashboards for insightful data visualisation
 
-## Data Analytics using R
+## Data Analysis using R
 
 **Harness the Potential of Statistical Computing**
 
-R is a powerful language tailored for statistical analysis and data visualisation. This course provides a comprehensive introduction to R, equipping you with the tools to perform sophisticated data analyses and create compelling visual representations.
+R is a powerful language for statistical analysis and data visualisation. This course provides a practical introduction to R, enabling you to conduct sophisticated analyses and produce compelling visualisations.
 
 **What You'll Gain:**
 
@@ -40,99 +40,113 @@ R is a powerful language tailored for statistical analysis and data visualisatio
 
 -   Knowledge of reproducible research practices using Quarto
 
-## Machine Learning with Python
+## Data Science and Machine Learning with Python
 
 **Build Intelligent Systems**
 
-Python is the go-to language for machine learning and artificial intelligence. This course introduces you to the foundational concepts of machine learning and guides you through the development of predictive models and intelligent applications.
+Python is the leading language for machine learning and artificial intelligence. This course introduces you to core machine learning concepts and guides you through building predictive models and intelligent applications.
 
 **What You'll Gain:**
 
--   Solid grasp of Python programming for data science
+-   Strong foundation in Python programming for data science
 
--   Understanding of key machine learning algorithms and their applications
+-   Understanding of key machine learning algorithms and their use cases
 
 -   Skills in data preprocessing, feature engineering, and model evaluation
 
--   Experience with popular libraries such as scikit-learn, TensorFlow, and Keras
+-   Experience with popular libraries such as pandas, seaborn, and scikit-learn.
 
--   Ability to deploy machine learning models in real-world scenarios
+-   Ability to deploy machine learning models in practical scenarios
 
 ## Power BI
 
 **Transform Data into Actionable Insights**
 
-Power BI is a leading business analytics tool that empowers you to visualise data and share insights across your organisation. This course teaches you how to leverage Power BI to create interactive reports and dashboards that drive informed decision-making.
+Power BI is a powerful business analytics tool that enables you to visualise data and share insights effectively. This course teaches you how to build interactive dashboards and reports that support evidence-based decision making
 
 **What You'll Gain:**
 
 -   Proficiency in connecting and importing data from various sources
 
--   Skills in data modelling and relationship management
+-   Skills in data modelling and managing relationships
 
 -   Ability to design and customise interactive visualisations
 
--   Techniques for sharing and collaborating on Power BI reports
+-   Techniques for collaborating and sharing reports on the Power BI service
 
--   Knowledge of Power BI service and its integration capabilities
+-   Understanding of Power BI’s integration and deployment features
 
-## Mastering Educational AI Tools
+## Generative AI and Prompt Engineering
 
 **Unlocking AI Power: Essential Tools for Productivity and Creativity**
 
-Artificial Intelligence is at the forefront of revolutionising various sectors by enhancing productivity, optimising financial processes, and advancing healthcare solutions. This course introduces you to essential AI platforms such as ChatGPT, NotebookLM, Gemini, and Gamma, demonstrating their advanced applications to boost productivity and foster creativity.
+Artificial Intelligence is transforming industries by boosting productivity, enhancing workflows and enabling rapid innovation. This module introduces key AI platforms, including ChatGPT, NotebookLM, Gemini and Gamma, with a focus on real-world applications.
 
 **What You'll Gain:**
 
--   Learn to use leading tools like ChatGPT, NotebookLM, Gemini, and Gamma.
+-   Hands-on experience with leading AI tools such as ChatGPT, NotebookLM, Gemini and Gamma
 
--   Integrate AI to automate tasks and streamline workflows.
+-   Ability to automate tasks and streamline complex workflows
 
--   Utilise AI for content creation, design, and innovative problem-solving.
+-   Skills to use AI for content creation, design and creativity
 
--   Understand AI's impact on finance, healthcare, and business operations.
+-   Understanding of AI applications in finance, healthcare and business operations
 
--   Apply AI tools through hands-on projects and real-world case studies.
+-   Practical knowledge through projects and case studies
 
--   Implement AI responsibly, focusing on ethical considerations.
+-   Awareness of responsible and ethical AI use
 
 ## LinkedIn Optimisation
 
 **Enhance Your Professional Presence**
 
-LinkedIn is a vital platform for career advancement and networking. This course guides you through optimising your LinkedIn profile to attract potential employers, showcase your skills, and expand your professional network effectively.
+LinkedIn is an essential platform for networking and career development. This module helps you optimise your LinkedIn profile to attract opportunities and build a strong professional presence.
 
 **What You'll Gain:**
 
 -   Strategies for creating a compelling LinkedIn profile
 
--   Techniques for showcasing your skills, experiences, and achievements
+-   Techniques for highlighting your skills, experiences and achievements
 
 -   Insights into building and engaging with a professional network
 
--   Tips for leveraging LinkedIn features for job searching and career growth
+-   Tips for effective job searching and career growth
 
--   Best practices for content sharing and personal branding on LinkedIn
+-   Best practices for content sharing and personal branding
 
 ## Digital Marketing and Business Venture
 
 **Launch and Grow Your Digital Enterprise**
 
-Effective marketing is crucial for business success in today's digital age. This course covers digital marketing essentials, equipping you with the skills to create, implement, and manage successful online marketing strategies for your business ventures.
+Effective marketing is crucial for business success in today's digital age. This course equips you with essential marketing skills to build, promote and manage digital ventures effectively.
 
 **What You'll Gain:**
 
--   Understanding of digital marketing fundamentals and strategies
+-   Understanding of digital marketing principles and strategies
 
 -   Skills in search engine optimisation (SEO) and search engine marketing (SEM)
 
 -   Proficiency in social media marketing and content creation
 
--   Knowledge of email marketing, analytics, and performance measurement
+-   Knowledge of email marketing, analytics, and performance tracking
 
 -   Insights into launching and managing digital business ventures
 
 
-------------------------------------------------------------------------
 
-Please consider following me on [Twitter](https://twitter.com/gbganalyst) and [LinkedIn](https://linkedin.com/in/ezekiel-ogundepo) for more insights on `R`, `Python`, and `Excel` for data science.
+
+## Google Workspace Productivity
+
+**Boost Your Efficiency with Smart Digital Tools**
+
+Google Workspace is a suite of cloud-based tools designed to enhance communication, collaboration, and productivity. This module introduces essential Workspace applications and shows you how to use them effectively for academic, professional, and entrepreneurial tasks.
+
+**What You'll Gain:**
+
+- Understanding of Gmail, Google Calendar, and Google Meet for communication and collaboration
+
+- Skills in creating and managing documents, spreadsheets, presentations, forms, and cloud storage using Google Docs, Sheets, Slides, Forms, and Drive
+
+- Ability to organise ideas, tasks, and workflows efficiently with Google Keep and Google Tasks
+
+- Practical knowledge to work smarter, collaborate effectively, and manage digital workflows with confidence

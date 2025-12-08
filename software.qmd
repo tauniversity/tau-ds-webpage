@@ -29,7 +29,7 @@ To install R on a Windows operating system, please download the setup file from 
 
 **For Mac Users** :
 
-To download R for Mac, please click the following [link](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/R-4.3.3-arm64.pkg). Once the download is complete, open the `.pkg` file to begin the installation process.
+To download R for Mac, please click the following [link](https://cran.r-project.org/bin/macosx/). Once the download is complete, open the `.pkg` file to begin the installation process.
 
 **For Linux Users**:
 

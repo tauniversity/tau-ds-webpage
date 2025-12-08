@@ -23,7 +23,7 @@ Ezekiel Ogundepo <a href="https://www.linkedin.com/in/gbganalyst"
 
 <p style="margin-top:0.5rem;">
 
-Fellow Ezekiel has over 10 years of experience in data science, focusing on statistical methods and research software engineering.
+Ezekiel is a data analytics manager and data scientist with over ten years of experience applying statistical methods and research software engineering to solve problems in business, development and public policy. He creates data-driven tools and insights that support decision making and drive meaningful impact.
 
 </p>
 :::
@@ -31,7 +31,7 @@ Fellow Ezekiel has over 10 years of experience in data science, focusing on stat
 <!-- Instructor 2 -->
 
 ::: {style="margin-bottom:2rem;"}
-<img src="images/ayodele.jpg" alt="Ayodele Awokoya" style="
+<img src="images/jesuloluwa.png" alt="Adeolu Jesuloluwa" style="
          width: 180px;
          aspect-ratio: 1 / 1;
          border-radius: 50%;
@@ -41,17 +41,17 @@ Fellow Ezekiel has over 10 years of experience in data science, focusing on stat
 
 <h3 style="margin: 0.5rem 0 0.25rem;">
 
-Ayodele Awokoya <a href="https://www.linkedin.com/in/ayodeleawokoya/" 
+Adeolu Jesuloluwa Alabi <a href="https://www.linkedin.com/in/adeolu-alabi-41767119b/" 
        target="_blank" 
        style="font-size:0.9rem; margin-left:0.35rem;">↗</a>
 
 </h3>
 
-<em style="color: #777;">Machine Learning Expert</em>
+<em style="color: #777;">Public Health Researcher</em>
 
 <p style="margin-top:0.5rem;">
 
-Mrs Awokoya is a renowned Machine Learning/Natural Language Processing researcher and lecturer with several publications in the field.
+Adeolu is a Public Health researcher with a specialisation in Epidemiology. She is a doctoral (PhD) student with over five years of experience in research, data management and scientific writing.
 
 </p>
 :::
@@ -140,35 +140,8 @@ Olusola is a data scientist with over 3 years of experience in data analysis, bu
 </p>
 :::
 
+
 <!-- Instructor 6 -->
-
-::: {style="margin-bottom:2rem;"}
-<img src="images/roseline.jpg" alt="Roseline Ogundokun" style="
-         width: 180px;
-         aspect-ratio: 1 / 1;
-         border-radius: 50%;
-         object-fit: contain;
-         background-color: #fff;
-       "/>
-
-<h3 style="margin: 0.5rem 0 0.25rem;">
-
-Roseline Ogundokun <a href="https://www.linkedin.com/in/roseline-ogundokun-ph-d-67ab83121" 
-       target="_blank" 
-       style="font-size:0.9rem; margin-left:0.35rem;">↗</a>
-
-</h3>
-
-<em style="color: #777;">Lecturer and Researcher</em>
-
-<p style="margin-top:0.5rem;">
-
-Dr. Roseline has 9 years experience as a Lecturer and Researcher focusing on Artificial Intelligence, Computer Vision, and Medical Imaging.
-
-</p>
-:::
-
-<!-- Instructor 7 -->
 
 ::: {style="margin-bottom:2rem;"}
 <img src="images/sam.jpg" alt="Farohunbi Samuel" style="
