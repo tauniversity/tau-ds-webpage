@@ -28,63 +28,8 @@ Ezekiel is a data analytics manager and data scientist with over ten years of ex
 </p>
 :::
 
+
 <!-- Instructor 2 -->
-
-::: {style="margin-bottom:2rem;"}
-<img src="images/jesuloluwa.png" alt="Adeolu Jesuloluwa" style="
-         width: 180px;
-         aspect-ratio: 1 / 1;
-         border-radius: 50%;
-         object-fit: contain;
-         background-color: #fff;
-       "/>
-
-<h3 style="margin: 0.5rem 0 0.25rem;">
-
-Adeolu Jesuloluwa Alabi <a href="https://www.linkedin.com/in/adeolu-alabi-41767119b/" 
-       target="_blank" 
-       style="font-size:0.9rem; margin-left:0.35rem;">↗</a>
-
-</h3>
-
-<em style="color: #777;">Public Health Researcher</em>
-
-<p style="margin-top:0.5rem;">
-
-Adeolu is a Public Health researcher with a specialisation in Epidemiology. She is a doctoral (PhD) student with over five years of experience in research, data management and scientific writing.
-
-</p>
-:::
-
-<!-- Instructor 3 -->
-
-::: {style="margin-bottom:2rem;"}
-<img src="images/david.jpg" alt="David Akanji" style="
-         width: 180px;
-         aspect-ratio: 1 / 1;
-         border-radius: 50%;
-         object-fit: contain;
-         background-color: #fff;
-       "/>
-
-<h3 style="margin: 0.5rem 0 0.25rem;">
-
-David Akanji <a href="https://www.linkedin.com/in/davidakanjii" 
-       target="_blank" 
-       style="font-size:0.9rem; margin-left:0.35rem;">↗</a>
-
-</h3>
-
-<em style="color: #777;">Data Analyst & Machine Learning</em>
-
-<p style="margin-top:0.5rem;">
-
-Mr. David has over 5 years of experience in data science, specializing in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
-
-</p>
-:::
-
-<!-- Instructor 4 -->
 
 ::: {style="margin-bottom:2rem;"}
 <img src="images/adeola.jpg" alt="Adeola Lawal" style="
@@ -112,7 +57,96 @@ Ms. Adeola is a seasoned Data Migration Specialist at Atlassian, boasting over f
 </p>
 :::
 
+
+
+<!-- Instructor 3 -->
+
+::: {style="margin-bottom:2rem;"}
+<img src="images/sam.jpg" alt="Farohunbi Samuel" style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "/>
+
+<h3 style="margin: 0.5rem 0 0.25rem;">
+
+Dr Farohunbi Samuel <a href="https://www.linkedin.com/in/samuel-farohunbi/" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">↗</a>
+
+</h3>
+
+<em style="color: #777;">Biochemist</em>
+
+<p style="margin-top:0.5rem;">
+
+Dr. Farohunbi Samuel is a scholarly biochemist, a seasoned administrator, AI enthusiast, and tech founder. He has over 15 years of experience as a digital marketer and techpreneur.
+
+</p>
+:::
+
+
+
+<!-- Instructor 4 -->
+
+::: {style="margin-bottom:2rem;"}
+<img src="images/jesuloluwa.png" alt="Adeolu Jesuloluwa" style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "/>
+
+<h3 style="margin: 0.5rem 0 0.25rem;">
+
+Adeolu Jesuloluwa Alabi <a href="https://www.linkedin.com/in/adeolu-alabi-41767119b/" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">↗</a>
+
+</h3>
+
+<em style="color: #777;">Public Health Researcher</em>
+
+<p style="margin-top:0.5rem;">
+
+Adeolu is a Public Health researcher with a specialisation in Epidemiology. She is a doctoral (PhD) student with over five years of experience in research, data management and scientific writing.
+
+</p>
+:::
+
 <!-- Instructor 5 -->
+
+::: {style="margin-bottom:2rem;"}
+<img src="images/david.jpg" alt="David Akanji" style="
+         width: 180px;
+         aspect-ratio: 1 / 1;
+         border-radius: 50%;
+         object-fit: contain;
+         background-color: #fff;
+       "/>
+
+<h3 style="margin: 0.5rem 0 0.25rem;">
+
+David Akanji <a href="https://www.linkedin.com/in/davidakanjii" 
+       target="_blank" 
+       style="font-size:0.9rem; margin-left:0.35rem;">↗</a>
+
+</h3>
+
+<em style="color: #777;">Data Analyst & Machine Learning</em>
+
+<p style="margin-top:0.5rem;">
+
+Mr. David has over 5 years of experience in data science, specializing in statistical methods, experimental design, geospatial, and business analysis using R, Python, and Power BI.
+
+</p>
+:::
+
+
+<!-- Instructor 6 -->
 
 ::: {style="margin-bottom:2rem;"}
 <img src="images/sola.jpg" alt="Olusola Ogundepo" style="
@@ -141,10 +175,10 @@ Olusola is a data scientist with over 3 years of experience in data analysis, bu
 :::
 
 
-<!-- Instructor 6 -->
+<!-- Instructor 7 -->
 
 ::: {style="margin-bottom:2rem;"}
-<img src="images/sam.jpg" alt="Farohunbi Samuel" style="
+<img src="images/enoch.png" alt="Ajiola Oluwabukunmi" style="
          width: 180px;
          aspect-ratio: 1 / 1;
          border-radius: 50%;
@@ -154,17 +188,20 @@ Olusola is a data scientist with over 3 years of experience in data analysis, bu
 
 <h3 style="margin: 0.5rem 0 0.25rem;">
 
-Dr Farohunbi Samuel <a href="https://www.linkedin.com/in/samuel-farohunbi/" 
+Ajiola Oluwabukunmi <a href="https://www.linkedin.com/in/ajiola-oluwabukunmi/" 
        target="_blank" 
        style="font-size:0.9rem; margin-left:0.35rem;">↗</a>
 
 </h3>
 
-<em style="color: #777;">Biochemist</em>
+<em style="color: #777;">Data Analyst/Power Platform Developer</em>
 
 <p style="margin-top:0.5rem;">
 
-Dr. Farohunbi Samuel is a scholarly biochemist, a seasoned administrator, AI enthusiast, and tech founder. He has over 15 years of experience as a digital marketer and techpreneur.
+Ajiola Oluwabukunmi is a Data Analyst and Power Platform Developer leveraging Power Platform tools to build efficient business solutions and automate routine tasks, enhancing overall productivity. He is also a Program, Project, and Community Manager who designs, organizes, and executes large-scale initiatives that align seamlessly with organizational goals, deliver measurable impact, and drive revenue growth.
 
 </p>
 :::
+
+
+

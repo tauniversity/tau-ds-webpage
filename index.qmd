@@ -134,7 +134,6 @@ Effective marketing is crucial for business success in today's digital age. This
 
 
 
-
 ## Google Workspace Productivity
 
 **Boost Your Efficiency with Smart Digital Tools**
@@ -150,3 +149,27 @@ Google Workspace is a suite of cloud-based tools designed to enhance communicati
 - Ability to organise ideas, tasks, and workflows efficiently with Google Keep and Google Tasks
 
 - Practical knowledge to work smarter, collaborate effectively, and manage digital workflows with confidence
+
+
+## Process Automation Using Power Platform
+
+**Build Smart Solutions with Low-Code Tools**
+
+Modern organisations thrive on efficiency and streamlined workflows. This course introduces you to Microsoft Power Platform, enabling you to automate processes, build simple applications and create intelligent tools without advanced programming.
+
+**What You'll Gain:**
+
+- Understanding of low-code principles and the Microsoft Power Platform ecosystem
+
+- Skills to create functional apps using **Power Apps**
+
+- Ability to automate workflows and routine tasks with **Power Automate**
+
+- Capability to design reports and dashboards using **Power BI**
+
+- Experience building basic chatbots with **Power Virtual Agents**
+
+- Confidence to integrate platform components into end-to-end automated solutions
+
+
+
