@@ -1,3 +1,43 @@
+## January 12, 2026: Assignment/Capstone Project Reminders
+
+### LinkedIn Profile Submission Deadline
+
+Optimizing your LinkedIn profile is an ongoing process. As you progress through the training, you are encouraged to continuously refine and update your profile by applying the skills, strategies, and insights shared during each session.
+
+Even while the training is still in progress, please begin implementing what you’ve learned to enhance your LinkedIn presence.
+
+Submit your LinkedIn profile using the form below:
+[Submit LinkedIn Profile](https://forms.gle/arvBiWVykdiAY7YLA)
+
+**Assignment Deadline:**
+All submissions must be completed by Sunday, 11th January.
+
+---
+
+### Power Query Assignment
+
+Please note that the deadline for the submission of the Power Query Assignment is **Tuesday, January 13, 2026**.
+
+**Total Marks**: 20
+
+**Assignment Details**:
+For Data Analysis in Spreadsheets (Power Query), students are required to analyze the retail dataset provided at the link below:
+[Download Dataset](https://view.flodesk.com/pages/643016e36c3e6e7d2a97f028)
+
+Kindly ensure that you complete the registration process and download the dataset prior to commencing the analysis.
+
+**Submission Instructions**:
+Your final analysis must be compiled into one (1) workbook and submitted via the Google Form accessible through the link below:
+[Submit Assignment](https://forms.gle/8ZsJS6ZWuzHk59ZM8)
+
+---
+
+### Office Workspace Productivity Capstone Project
+
+Please note that the deadline for the capstone project is fast approaching: **Monday, January 19, 2026, at 5:00 PM**. Late submissions will **not** be accepted or graded.
+
+Further instructions and detailed guidelines are provided in the email that was sent to you earlier.
+
 ## December 08, 2025
 
 **Diploma in Data Science Orientation – Cohort 2026**
